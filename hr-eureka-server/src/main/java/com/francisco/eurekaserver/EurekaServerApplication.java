@@ -1,4 +1,4 @@
-package com.francisco.hreurekaserver;
+package com.francisco.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
